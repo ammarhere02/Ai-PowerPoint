@@ -16,6 +16,7 @@ and a final polished output for professional use.
 
 - Python 3.x
 - OpenAI API key
+- UNSPLASH API key
 - Required Python packages (see requirements.txt)
 
 ## Installation and Usage
